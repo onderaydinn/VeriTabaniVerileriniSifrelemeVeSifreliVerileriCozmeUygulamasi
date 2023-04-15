@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\bin\Debug\SifreliVeriler.exe.config
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\bin\Debug\SifreliVeriler.exe
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\bin\Debug\SifreliVeriler.pdb
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.exe
+C:\Users\ASUS\Desktop\Software\Project\SifreliVeriler\SifreliVeriler\obj\Debug\SifreliVeriler.pdb
